@@ -4,9 +4,8 @@
 - 🔭 I’m currently working on <b> A game in python </b>
 - 🌱 I’m currently learning <b> Python and Javascript </b>
 - 👯 I’m looking to collaborate on my project <b> Grimm Tales </b>
-- 🤔 I’m looking for help with 
-- 💬 Ask me about python
-- 📫 How to reach me: rcwall14@gmail.com
+- 💬 Ask me about <b> python </b>
+- 📫 How to reach me at: <b> rcwall14@gmail.com </b>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
