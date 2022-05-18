@@ -1,5 +1,4 @@
 <p align="center">
-  <b>
   <h1>
     Hi there 👋
 </p>
