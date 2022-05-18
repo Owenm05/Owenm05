@@ -1,7 +1,4 @@
-<p align="center">
-    <h1>
-    Hi there 👋
-    </h1>
+<h2 align="center">👋 Hello!</h2>
 </p>
 <!--
 **Owenm05/Owenm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
